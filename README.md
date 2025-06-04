@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple YouTube clone built using HTML, CSS, and JavaScript. It aims to replicate the basic features of YouTube, allowing users to browse, search, and watch videos in a user-friendly interface.
+This project is a simple YouTube clone built using HTML, CSS, and JavaScript. It aims to replicate the basic features of YouTube, allowing users to browse, search, and watch videos in a user-friendly interfaces.
 
 ## Features
 
